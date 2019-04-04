@@ -1,8 +1,8 @@
 [{
   "id": 1,
-  "email": "lphan@shift3tech.com",
-  "username": "lphan",
-  "password": "abc123",
+  "email": "branden.crom@gmail.com",
+  "username": "iSklcndykid",
+  "password": "dummy1",
   "super_admin": true,
   "site_admin": true,
   "hash": "CVI2C3WKYEdbL4yi3B9eE",
